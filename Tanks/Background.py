@@ -14,7 +14,7 @@ def when():
       Kitten.change_shape('坦克大战-背景')
       def call_events_of(name_ = '坦克1'):
         Kitten.show()
-
+# 32号按键是空格键
 
       call_events_of()
       def call_events_of(name_ = '坦克2'):
